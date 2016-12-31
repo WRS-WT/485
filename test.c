@@ -10,7 +10,7 @@
 #include <time.h>
 #include "tmUart.h"
 #include "passenger_com_prot.h"
-//
+
 #define uartNum     3
 #define baudrate 9600
 
