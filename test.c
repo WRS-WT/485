@@ -13,7 +13,7 @@
 
 #define uartNum     3
 #define baudrate 9600
-
+/**/
 int main(int argc, char *argv[])
 {
 	MSG_MOBI info;
